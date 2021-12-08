@@ -222,7 +222,7 @@ cursor: pointer;
 		height: 720px;
 		color: blue;
 	}
-.corpe h1{
+	.corpe h1{
 		text-align: center;
 		white-space : nowrap;
 		width: 100%;
@@ -278,7 +278,7 @@ cursor: pointer;
 	height: 720px;
 	}
 	
-	}
+	
 	.antireco img{
 		flex-direction: column;
 		
