@@ -1,1 +1,1 @@
-DESATIVADO PARA CORREÇAO DE BUGS
+https://washingtonalbuquerque.github.io/HalfLife3/
